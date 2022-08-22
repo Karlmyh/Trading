@@ -1,0 +1,2 @@
+# Trading
+Quant trading project
